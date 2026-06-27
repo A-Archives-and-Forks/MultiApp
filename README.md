@@ -13,7 +13,7 @@ Over a long period of time in the past, through user feedback, servers, internet
 
 ### Our official product
 
-[PlayBox](https://github.com/WaxMoon/MultiApp/releases/download/v1.0.2/playbox.apk)
+#### [MultiApp Ultra](https://play.google.com/store/apps/details?id=com.waxmoon.ma.nova.gp) [Backup link](res/MultiApp_ultra.apk)
 
 PlayBox has its own Google service framework, providing you with an independent operating environment to play Google Play games and applications.
 
@@ -23,12 +23,16 @@ PlayBox has its own Google service framework, providing you with an independent 
 
 3.Independent virtual environment, not limited by the system, simple, stable and efficient.
 
-[GooglePlay MultiApp](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp)
+#### [GooglePlay MultiApp](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp) [Backup link](res/MultiApp-GooglePlay.apk)
 
 This is a simple and easy-to-use and free Android multi-opening assistant, which can use multiple identical applications and run multiple accounts on one mobile phone, including: whatsapp, facebook, instagram, WeChat, etc.
 
 ### Telegram
 https://t.me/xunijun
+
+## Maintenance Status
+
+This repository is no longer maintained as of 2023; please contact directly for commercial use.
 
 ## Project Introduction
 MultiApp is a virtual Android container, which can open more apps. This project provides a simple UI for you to experience. You can also download the official apk from [Google play](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp) to enjoy a better experience. If you are an android developer, you can also customize your own UI. You don't need to pay attention to the technical details that are difficult to understand. You can use the api provided by [opensdk](https://github.com/WaxMoon/opensdk) to open more apps. If you have any questions during the experience, you can contact us by WeChat.

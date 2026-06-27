@@ -11,16 +11,16 @@
 
 ### 下面是我们团队的产品
 
-#### [PlayBox](https://github.com/WaxMoon/MultiApp/releases/download/v1.0.2/playbox.apk)
+#### [MultiApp Ultra](https://play.google.com/store/apps/details?id=com.waxmoon.ma.nova.gp) [备用链接](res/MultiApp_ultra.apk)
 这是一款自带谷歌服务框架的免安装神器，为您提供独立的运行环境，畅玩Google Play游戏与应用。
 
-1：PlayBox适用于各大品牌手机系统，小米，三星，华为，OPPO，VIVO等，支持Android 7-14；
+1：PlayBox适用于各大品牌手机系统，小米，三星，华为，OPPO，VIVO等，支持Android 8-17；
 
 2：内置Google Play套件，无限畅玩国内外优质游戏与应用；
 
 3：独立虚拟环境，不受系统限制，简单稳定高效.
 
-#### [GooglePlay MultiApp](res/MultiApp-GooglePlay.apk)
+#### [MultiApp](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp) [备用链接](res/MultiApp-GooglePlay.apk)
 这是一款简洁易用并且免费的安卓多开助手，可以在一台手机上使用多个相同的应用程序并运行多个账户，包括: whatsapp、facebook、instagram、微信等
 
 
@@ -30,7 +30,7 @@
 
 ## 维护情况
 
-该仓库大概一个月更新一次，请留意文末的更新日志
+该仓库于2023年不再维护，商业用途可以直接联系。
 
 ## 项目简介
 MultiApp是一款虚拟安卓容器，可实现app多开，该工程提供了一个简易的UI供您体验，您也可以下载[官网安装包](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp)享受更流畅的体验。如果您是一个android开发者，也可以自已定制UI，您不用关注底层的实现细节，使用[opensdk](https://github.com/WaxMoon/opensdk)提供的api即可实现app多开。如果您在体验过程中有任何问题，可直接咨询微信账号。
