@@ -12,13 +12,22 @@
 ### 下面是我们团队的产品
 
 #### [MultiApp Ultra](https://play.google.com/store/apps/details?id=com.waxmoon.ma.nova.gp) [备用链接](res/MultiApp_ultra.apk)
-这是一款自带谷歌服务框架的免安装神器，为您提供独立的运行环境，畅玩Google Play游戏与应用。
+这是一款现代风格版本的安卓多开助手，可以在一台手机上使用多个相同的应用程序并运行多个账户，包括: whatsapp、facebook、instagram、微信等。
 
-1：PlayBox适用于各大品牌手机系统，小米，三星，华为，OPPO，VIVO等，支持Android 8-17；
+1：MultiApp ultra适用于各大品牌手机系统，小米，三星，华为，OPPO，VIVO等，支持Android 8-17；
 
-2：内置Google Play套件，无限畅玩国内外优质游戏与应用；
+2：支持Google Play套件，无限畅玩国内外优质游戏与应用；
 
 3：独立虚拟环境，不受系统限制，简单稳定高效.
+
+#### 功能亮点
+
+| 1. 核心主页 | 2. 功能导航 | 3. 隐私空间 |
+| :---: | :---: | :---: |
+| ![主页](res/ultra_main_1.jpg) | ![导航](res/ultra_main_2.jpg) | ![隐私空间](res/ultra_main_3.jpg) |
+| **4. 存储管理** | **5. 系统设置** | |
+| ![存储](res/ultra_main_4.jpg) | ![设置](res/ultra_main_5.jpg) | |
+
 
 #### [MultiApp](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp) [备用链接](res/MultiApp-GooglePlay.apk)
 这是一款简洁易用并且免费的安卓多开助手，可以在一台手机上使用多个相同的应用程序并运行多个账户，包括: whatsapp、facebook、instagram、微信等

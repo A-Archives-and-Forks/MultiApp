@@ -13,17 +13,28 @@ Over a long period of time in the past, through user feedback, servers, internet
 
 ### Our official product
 
-#### [MultiApp Ultra](https://play.google.com/store/apps/details?id=com.waxmoon.ma.nova.gp) [Backup link](res/MultiApp_ultra.apk)
+#### [MultiApp Ultra](https://play.google.com/store/apps/details?id=com.waxmoon.ma.nova.gp) [Backup link](docs/res/MultiApp_ultra.apk)
 
-PlayBox has its own Google service framework, providing you with an independent operating environment to play Google Play games and applications.
+This is a modern-style Android multi-account assistant that allows you to use multiple instances of the same app and run multiple accounts simultaneously on a single phone—including WhatsApp, Facebook, Instagram, WeChat, and more.
 
-1.PlayBox is suitable for all major brands of mobile phone systems, such as Xiaomi, Samsung, Huawei, OPPO, VIVO, etc., and supports Android 7-14;
+1: MultiApp Ultra is compatible with major smartphone brands (such as Xiaomi, Samsung, Huawei, OPPO, and Vivo) and supports Android versions 8 through 17.
 
-2.Built-in Google Play suite, unlimited play of high-quality games and applications at home and abroad;
+2: It supports Google Play Services, giving you unlimited access to premium games and apps from both domestic and international markets.
 
-3.Independent virtual environment, not limited by the system, simple, stable and efficient.
+3: It operates within an independent virtual environment, free from system restrictions, ensuring a simple, stable, and efficient experience.
 
-#### [GooglePlay MultiApp](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp) [Backup link](res/MultiApp-GooglePlay.apk)
+
+#### 功能亮点
+
+| 1. Home page | 2. Navigation page | 3. Private space |
+| :---: | :---: | :---: |
+| ![Home](docs/res/ultra_main_1.jpg) | ![Nav](docs/res/ultra_main_2.jpg) | ![Private](docs/res/ultra_main_3.jpg) |
+| **4. Storage Manager** | **5. Settings** | |
+| ![Storage](docs/res/ultra_main_4.jpg) | ![Settings](docs/res/ultra_main_5.jpg) | |
+
+
+
+#### [GooglePlay MultiApp](https://play.google.com/store/apps/details?id=com.waxmoon.ma.gp) [Backup link](docs/res/MultiApp-GooglePlay.apk)
 
 This is a simple and easy-to-use and free Android multi-opening assistant, which can use multiple identical applications and run multiple accounts on one mobile phone, including: whatsapp, facebook, instagram, WeChat, etc.
 
